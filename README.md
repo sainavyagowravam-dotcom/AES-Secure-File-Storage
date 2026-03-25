@@ -25,3 +25,6 @@ To create a secure file encryption and decryption system using AES-256 with inte
  Encrypt:
 ```bash
 python encrypt_file.py
+
+decrypt:
+python decrypt_file.py
